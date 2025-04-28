@@ -1,4 +1,5 @@
-Contrastive Learning for 3D Point Cloud Classification
+**Contrastive Learning for 3D Point Cloud Classification**
+
 📄 Project Overview
 This project focuses on building a robust and efficient 3D point cloud classification model. It leverages Depthwise Separable Convolutions and T-Net Light (Spatial Transformer Networks) for efficient feature extraction and spatial invariance. Additionally, it explores the use of self-supervised contrastive learning to enhance feature learning without heavy reliance on labeled data.
 
